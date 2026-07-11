@@ -5,4 +5,4 @@
   </a>
 </h3>
 
-> A curated list of awesome Steam Deck software, resources and more.  
+> A curated list of awesome Steam Machine software, resources and more.  
